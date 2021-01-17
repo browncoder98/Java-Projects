@@ -1,2 +1,2 @@
-# Java-Projects
-A list of all the Java Projects I made while I was self teaching myself the language using IntelliJ IDE
+# Java Problems
+A list of all the Java Practice exercises I wokred on while I was self teaching myself the language using IntelliJ IDE
